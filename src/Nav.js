@@ -1,6 +1,7 @@
 import styles from './Nav.module.css';
 
-const Nav = () => {
+const Nav = () =>
+{
   return (
     <nav id="lnb" className={styles.lnb}>
       <ul className={styles.cf}>

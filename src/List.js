@@ -1,6 +1,7 @@
 import styles from './List.module.css';
 
-const List = () => {
+const List = () =>
+{
   return (
     <div>
       <table className={styles.table}>
