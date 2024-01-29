@@ -9,7 +9,8 @@ import Comment from './Comment';
 import List from './List';
 import ReadContainer from './ReadContainer';
 
-function App() {
+function App()
+{
   return (
     <div>
       <Header />
@@ -21,4 +22,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
