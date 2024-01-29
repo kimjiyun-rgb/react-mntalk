@@ -1,6 +1,7 @@
 import styles from './Comment.module.css';
 
-const Comment = () => {
+const Comment = () =>
+{
   return (
     <div className={styles.comment}>
       <div className={styles.showCmt}><span>6</span>개의 댓글이 있습니다.</div>
