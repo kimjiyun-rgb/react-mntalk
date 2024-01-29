@@ -1,6 +1,7 @@
 import styles from './Read.module.css';
 
-const Read = () => {
+const Read = () =>
+{
   return (
     <>
       <div className={`${styles.mainTop} ${styles.cf}`}>
