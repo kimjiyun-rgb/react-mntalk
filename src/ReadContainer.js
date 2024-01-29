@@ -4,7 +4,8 @@ import Read from "./Read";
 
 import styles from './ReadContainer.module.css';
 
-const ReadContainer = () => {
+const ReadContainer = () =>
+{
   return (
     <div className={styles.container}>
       <Read />
