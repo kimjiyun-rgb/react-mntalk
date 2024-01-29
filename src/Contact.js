@@ -1,6 +1,7 @@
 import styles from './Contact.module.css';
 
-const Contact = () => {
+const Contact = () =>
+{
   return (
     <div id="container" className={styles.container}>
       <h2>CONTACT US</h2>
